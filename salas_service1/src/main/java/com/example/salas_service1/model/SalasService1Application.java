@@ -1,4 +1,4 @@
-package com.example.salas_service1;
+package com.example.salas_service1.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
